@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=PAVANACER\SQLEXPRESS;uid=PAVANACER\POTTA_PAVAN_KUMAR;pwd=;Database=ExpensesDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir EntityModels
